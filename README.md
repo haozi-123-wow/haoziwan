@@ -22,13 +22,13 @@
 - ~~使用了 [Yahoo Query Language (YQL)](https://developer.yahoo.com/yql/) 来解决获取 Bing 壁纸跨域问题~~
 - ~~原先 YQL 服务将被淘汰，现改用 [JsonBird](https://bird.ioliu.cn/)~~
 - 使用 `GitHub Action` 来获取 Bing 壁纸，使用 `JSONP` 获取 Bing 壁纸 URL 文件
-- 使用了[小风音乐播放器](https://music.xfyun.club/)
+- 使用了[小枫音乐播放器](https://music.xfyun.club/)
 
 
 
 ### 更新记录
 - 2023-09-23
-  - 添加了悬浮音乐播放器，使用小风音乐播放器 
+  - 添加了悬浮音乐播放器，使用小枫音乐播放器 
 - 2022-06-10
   - 发布 NPM 包，使用 UNPKG 作为资源文件的 CDN 
 - 2023-02-27
