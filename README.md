@@ -16,7 +16,7 @@
 ![关于JPG](http://101.43.155.111:74/guany20230923211617.png)
 ### 注
 
-- 访问地址：[个人主页](http://js.haoziwz.xyz/)
+- 访问地址：[个人主页](http://js.haoziwz.top/)
 - 使用了 [一言](http://hitokoto.cn/) 的 API 服务
 - ~~使用了 [Bing 壁纸 API](https://github.com/xCss/bing/) 服务~~
 - ~~使用了 [Yahoo Query Language (YQL)](https://developer.yahoo.com/yql/) 来解决获取 Bing 壁纸跨域问题~~
